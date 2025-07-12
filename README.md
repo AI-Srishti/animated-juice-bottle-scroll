@@ -1,8 +1,6 @@
 ## Demo
 
-[GSAP | Animated Bottle Scroll](https://ubiquitous-tarsier-78de93.netlify.app/)
-
-[Codepen](https://codepen.io/PixelPerfectLabs)
+[GSAP | Animated Bottle Scroll](https://AI-Srishti.github.io/animated-juice-bottle-scroll/)
 
 ## Preview
 
@@ -17,7 +15,7 @@ Follow these steps to set up and run the project locally:
 ## Tutorial
 
 Watch the step-by-step implementation of this project on my YouTube channel:
-[https://www.youtube.com/@PixelPerfectLabs](https://www.youtube.com/@PixelPerfectLabs).
+[https://www.youtube.com/@pk.fusiontech](https://www.youtube.com/@pk.fusiontech).
 
 ## Support My Work
 
