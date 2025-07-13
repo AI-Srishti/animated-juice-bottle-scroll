@@ -6,7 +6,7 @@
 
 Here’s a preview of the **GSAP | Animated Bottle Scroll**:
 
-![GSAP | Animated Bottle Scroll](./screenshot.png)
+![GSAP | Animated Bottle Scroll](./Screenshot.png)
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ Watch the step-by-step implementation of this project on my YouTube channel:
 
 If you like this project and want to support my work, consider buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/pixelperfectlabs">
+<a href="https://buymeacoffee.com/pkfusiontech">
   <img src="https://i.ibb.co/8sYMgd1/bmc-qr.png" alt="Buy Me a Coffee" height="200" width="200" />
 </a>
 
