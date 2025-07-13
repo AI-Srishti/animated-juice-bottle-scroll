@@ -22,7 +22,7 @@ Watch the step-by-step implementation of this project on my YouTube channel:
 If you like this project and want to support my work, consider buying me a coffee!
 
 <a href="https://buymeacoffee.com/pkfusiontech">
-  <img src="https://i.ibb.co/8sYMgd1/bmc-qr.png" alt="Buy Me a Coffee" height="200" width="200" />
+  <img src="https://pkfusiontech.shop/assets/images/bmc_qr.png" alt="Buy Me a Coffee" height="200" width="200" />
 </a>
 
 > Your support helps me create more amazing UI/UX projects and tutorials. Thank you! 😊
